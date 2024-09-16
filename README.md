@@ -28,15 +28,9 @@ The second simulation explores the effect of a beta-blocker pill on patients' bl
 
 - python simpsons_paradox.py python beta_blocker.py
 
-
 ## Dependencies
 
 Ensure you have Python installed. The code uses the `random` library, which is built-in with Python.
 
 No additional libraries are required.
-
-
-
-
-1. Clone the repository:
 
